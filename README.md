@@ -22,4 +22,4 @@ View the live site here: [https://wiliam227user.github.io/](https://wiliam227use
 This portfolio serves as a central hub for my freelance services on Upwork and LinkedIn, showcasing my transition from hardware engineering to advanced cybersecurity defense.
 
 ---
-*Maintained by Kim Kerans - 2024*
+*Maintained by Kim Kerans - 2026*
